@@ -10,4 +10,7 @@ If you would like to contribute, do so like you would contribute to any github p
 
 ## Standards for Contributors
 
+[Discord](https://discord.gg/s9dah3hj) for contributors and anybody else.
+For the general Collapse community (not related to this project) please join this [Discord server](https://discord.gg/ZsDK8649y5)
+
 Use lots of links! We want this project to be easy for the layman, just like any website.
